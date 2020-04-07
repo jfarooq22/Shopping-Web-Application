@@ -1,5 +1,5 @@
 {
-  "name": "Shopping Web Application",
+  "name": "shopping_web_application",
   "version": "1.0.0",
   "description": "Complete Application",
   "main": "app.js",
@@ -15,12 +15,21 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
+    "ejs": "^2.7.4",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "mongodb": "^3.5.5",
     "mysql2": "^1.6.1",
     "pug": "^2.0.3",
     "sequelize": "^5.0.0-beta.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfarooq22/Shopping-Web-Application.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jfarooq22/Shopping-Web-Application/issues"
+  },
+  "homepage": "https://github.com/jfarooq22/Shopping-Web-Application#readme"
 }
